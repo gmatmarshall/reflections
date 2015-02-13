@@ -1,3 +1,7 @@
 What happens when you initialize a respository? Why do you need to do it?
 
 Git will start to track changes made to the directory. Need it for version control
+
+How can you use the staging area to make sure you have one commit per logical chanee.
+
+By using git diff this will show the changes being made between the potential new version and the most recent commit.
