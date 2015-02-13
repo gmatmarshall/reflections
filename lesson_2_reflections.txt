@@ -1,0 +1,3 @@
+What happens when you initialize a respository? Why do you need to do it?
+
+Git will start to track changes made to the directory. Need it for version control
