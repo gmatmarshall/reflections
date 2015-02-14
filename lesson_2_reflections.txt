@@ -5,3 +5,16 @@ Git will start to track changes made to the directory. Need it for version contr
 How can you use the staging area to make sure you have one commit per logical chanee.
 
 By using git diff this will show the changes being made between the potential new version and the most recent commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would be useful for experimenting with new ideas. Braches allow new ideas to be worked on with out interfering with the more stable verions.
+
+How do the diagrams help you visualize the branch structure?
+Gives a birds eyeview. More importantly can see which commits are unreachable.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+pros: Quick accurate.
+
+cons: 
